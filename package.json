@@ -1,0 +1,19 @@
+{
+  "name": "scroller",
+  "version": "1.0.0",
+  "description": "InfinityScroller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyadharshinii2i/scroller.git"
+  },
+  "author": "priyadharsini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyadharshinii2i/scroller/issues"
+  },
+  "homepage": "https://github.com/priyadharshinii2i/scroller#readme"
+}
